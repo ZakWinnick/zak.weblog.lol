@@ -187,7 +187,7 @@ td, th {
 </main>
 
 <footer>
-	<p>© 2023 <a href="https://zakwinnick.com/" rel="me">Zak Winnick</a>
+	<p>© <a href="https://zakwinnick.com/" rel="me">Zak Winnick</a>
 </footer>
 
 </body>
