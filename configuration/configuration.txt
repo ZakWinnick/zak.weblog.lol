@@ -1,0 +1,116 @@
+// Weblog Configuration
+
+;; About your weblog
+;; -----------------
+
+Weblog title: Zak's Weblog-o-sphere
+Weblog description: The weblog of Zak Winnick.
+Author: Zak Winnick
+// Canonical domain: zakwinnick.com
+// Landing page: /
+Landing page template: Landing Page Template
+
+
+;; General config stuff
+;; --------------------
+
+Separator:  | 
+Navigation: [home](https://zakwinnick.com), [now](https://zakwinnick.com/now), <a target="_blank" href="https://surfscape.cloud/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.io"><i class="fa-brands fa-microblog"></i></a>, <a target="_blank" href="https://zak.weblog.lol/feed.json"><i class="fa-solid fa-square-rss"></i></a>
+Files path: /files/
+Landing page post count: 5
+// Landing page post length: 45 words
+Post template: Post Template
+
+;; Pagination
+;; ----------
+
+Pagination path: /page/
+Previous page template: <span class="previous-page"><a href="$previous_page">← Previous Page</a></span>
+Next page template: <span class="next-page"><a href="$next_page">Next Page →</a></span>
+
+
+;; Time stuff
+;; ----------
+
+; You can use a timezone value from the "TZ database name" column on this 
+; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+Timezone: America/Los_Angeles
+Date format: j F, Y g:i A
+
+
+;; Feeds
+;; -----
+
+Feed post count: 25
+
+
+;; Posts
+;; -----
+
+Post path format: /Y/
+Default post: <<[---
+Date: $date
+---
+
+# Your new post
+
+This is a new blog post. You can author it in _Markdown_, which is **awesome**.]>>
+
+Titleless title length: 15 words
+//Truncation appendix:  […]
+//Title format: <h1><a href="$permalink">$title</a></h1>
+
+
+;; Recent posts {recent-posts}
+;; ---------------------------
+
+Recent posts count: 5
+Recent posts format: <<[
+<ul>
+[post:begin]<li><a href="$location">$title</a></li>[post:end]
+</ul>]>>
+
+
+;; Post list {post-list}
+;; ---------------------
+
+Post list format: <<[
+<ul>
+[post:begin]<li><a href="$location">$title</a></li>[post:end]
+</ul>]>>
+
+
+;; Page list {page-list}
+;; ---------------------
+
+Page list format: <<[
+<ul>
+[page:begin]<li><a href="$location">$title</a></li>[page:end]
+</ul>]>>
+
+
+;; Search
+;; ------
+
+Search status: enabled
+Search template: Page Template
+Search results success message: There [is|are] $count [result|results] for your search:
+Search results failure message: There were no results found for your search.
+Search results format: <<[
+<h2>Results for “$search”</h2>
+<p>$search_results_message</p>
+[post:begin]<h3><a href="$location">$title</a></h3>
+<p>$date</p>
+<p>$snippet</p>[post:end]
+]>>
+
+
+;; Tags {tags}
+;; -----------
+
+Tag path: /tag/
+Tag page template: Page Template
+Tags format: <<[
+[tag:begin]<a class="tag" href="$tag_location">$tag</a>[tag:end]
+]>>
