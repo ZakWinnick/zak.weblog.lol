@@ -48,7 +48,7 @@ Feed post count: 25
 ;; Posts
 ;; -----
 
-Post path format: /Y/
+Post path format: /Y/m/
 Default post: <<[---
 Date: $date
 ---
