@@ -1,6 +1,0 @@
-Title: Image Test
-Date: True
-
-This is just testing adding an image from my CDN on DreamObjects. Let's see if it works...
-
-![AI-generated Zak](https://cdn.surfcloud.org/images/zakai.jpg)
