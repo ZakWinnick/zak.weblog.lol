@@ -3,10 +3,10 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog title: Zak's Weblog-o-sphere
-Weblog description: The weblog of Zak Winnick.
+Weblog title: Dog Cattle
+Weblog description: A weblog by Zak Winnick.
 Author: Zak Winnick
-// Canonical domain: a16zw.com
+// Canonical domain: dogcow.us
 // Landing page: /
 Landing page template: Landing Page Template
 
