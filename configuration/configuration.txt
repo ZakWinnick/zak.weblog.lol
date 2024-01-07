@@ -3,10 +3,10 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog title: Dog Cattle
+Weblog title: Zaq2u
 Weblog description: A weblog by Zak Winnick.
 Author: Zak Winnick
-// Canonical domain: dogcow.us
+// Canonical domain: zaq2u.com
 // Landing page: /
 Landing page template: Landing Page Template
 
@@ -15,7 +15,7 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  | 
-Navigation: [home](https://zakwinnick.com), [now](https://zakwinnick.com/now), <a target="_blank" href="https://social.lol/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.io"><i class="fa-brands fa-microblog"></i></a>, <a target="_blank" href="https://dogcow.us/feed.json"><i class="fa-solid fa-square-rss"></i></a>
+Navigation: [home](https://zakwinnick.com), [now](https://zakwinnick.com/now), <a target="_blank" href="https://surfscape.net/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.is"><i class="fa-brands fa-microblog"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
 Files path: /files/
 Landing page post count: 5
 // Landing page post length: 45 words
