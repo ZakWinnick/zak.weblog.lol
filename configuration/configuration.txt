@@ -6,8 +6,8 @@
 Weblog title: Zaq2u
 Weblog description: A weblog by Zak Winnick.
 Author: Zak Winnick
-// Canonical domain: zaq2u.com
-Landing page: /
+//Canonical domain: zaq2u.com
+//Landing page: /
 Landing page template: Landing Page Template
 
 
