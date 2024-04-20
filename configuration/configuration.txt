@@ -65,7 +65,7 @@ Titleless title length: 15 words
 ;; Recent posts {recent-posts}
 ;; ---------------------------
 
-Recent posts count: 5
+Recent posts count: 3
 Recent posts format: <<[
 <ul>
 [post:begin]<li><a href="$location">$title</a></li>[post:end]
