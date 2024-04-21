@@ -15,7 +15,7 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  | 
-Navigation: [home](https://zakwinnick.com), [now](https://zakwinnick.com/now), <a target="_blank" href="https://social.lol/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.io"><i class="fa-brands fa-microblog"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
+Navigation: [home](https://zakwinnick.com), [now](https://zakwinnick.com/now), <a target="_blank" href="https://2600.cloud/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.io"><i class="fa-brands fa-microblog"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
 Files path: /files/
 Landing page post count: 10
 // Landing page post length: 45 words
