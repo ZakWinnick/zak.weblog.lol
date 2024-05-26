@@ -187,7 +187,7 @@ td, th {
 </main>
 
 <footer>
-	<p>© <a href="https://surfchaos.com">SurfChaos Media</a>
+	<p>© <a target="_blank" href="https://surfscapeholdings.com/">Surfscape Holdings, LLC</a>
 </footer>
 
 </body>
