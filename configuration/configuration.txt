@@ -5,7 +5,7 @@
 
 Weblog title: Wyld Wattage
 Weblog description: A weblog by Zak Winnick, talking about owning a Rivian R1T
-Author: Wyld Wattage
+Author: Zak Winnick
 //Canonical domain: wyldwattage.com
 //Landing page: /
 Landing page template: Landing Page Template
