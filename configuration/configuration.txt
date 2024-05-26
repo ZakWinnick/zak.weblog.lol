@@ -6,7 +6,7 @@
 Weblog title: Wyld Wattage
 Weblog description: A weblog by Zak Winnick, talking about owning a Rivian R1T
 Author: Zak Winnick
-//Canonical domain: zaq2u.com
+//Canonical domain: wyldwattage
 //Landing page: /
 Landing page template: Landing Page Template
 
@@ -15,7 +15,7 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  | 
-Navigation: [home](https://zakwinnick.com), <a target="_blank" href="https://2600.cloud/@zak"><i class="fa-brands fa-mastodon"></i></a>, <a target="_blank" href="https://winnick.is"><i class="fa-brands fa-wordpress"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
+Navigation: [home](https://wyldwattage.com), <a target="_blank" href="https://instagram.com/wyldwattage"><i class="fa-brands fa-instagram"></i></a>, <a target="_blank" href="https://x.com/wyldwattage"><i class="fa-brands fa-twitter"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
 Files path: /files/
 Landing page post count: 10
 // Landing page post length: 45 words
