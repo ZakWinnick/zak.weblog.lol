@@ -187,7 +187,7 @@ td, th {
 </main>
 
 <footer>
-	<p>© <a href="https://zakwinnick.com/" rel="me">Zak Winnick</a>
+	<p>© <a href="https://surfchaos.com">SurfChaos Media</a>
 </footer>
 
 </body>
