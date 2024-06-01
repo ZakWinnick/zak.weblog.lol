@@ -15,7 +15,7 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  | 
-Navigation: <a target="_blank" href="https://youtube.com/@wyldwattage"><i class="fa-brands fa-youtube"></i></a>, <a target="_blank" href="https://instagram.com/wyldwattage"><i class="fa-brands fa-instagram"></i></a>, <a target="_blank" href="https://x.com/wyldwattage"><i class="fa-brands fa-twitter"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
+Navigation: <a target="_blank" href="https://wyldwattage.com"><i class="fa-solid fa-house"></i></a>, <a target="_blank" href="https://youtube.com/@wyldwattage"><i class="fa-brands fa-youtube"></i></a>, <a target="_blank" href="https://instagram.com/wyldwattage"><i class="fa-brands fa-instagram"></i></a>, <a target="_blank" href="https://x.com/wyldwattage"><i class="fa-brands fa-twitter"></i></a>, <a target="_blank" href="https://zaq2u.com/feed.json"><i class="fa-solid fa-square-rss"></i></a>
 Files path: /files/
 Landing page post count: 10
 // Landing page post length: 45 words
